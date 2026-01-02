@@ -153,11 +153,11 @@ Disable "Flyme payment protection" in "Developer options".
 
 Enable "Allow ADB debugging options in 'Charge only' mode" in "Developer options".
 
-#### MIUI (Xiaomi, POCO)
+##12## MIUI (Xiaomi, POCO)
 
 Do not use the scan feature in MIUI's "Security" app, since it will disable "Developer options".
 
-#### Sony
+##hs## Sony
 
 Don't click the dialog shows after connecting the USB, because it will change USB usage mode.
 
